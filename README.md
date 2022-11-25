@@ -1,7 +1,12 @@
 ### Hi there 👋
-<a href=&quothttps://github.com/StormBack-dev&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=StormBack-dev&quot />
-</a>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=StormBack-dev&show_icons=true&theme=onedark"
+  media="(prefers-color-scheme: onedark)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=StormBack-dev&show_icons=true" />
+</picture>
+
 <!--
 **StormBack-dev/StormBack-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
